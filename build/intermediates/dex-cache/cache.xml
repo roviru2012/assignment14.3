@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\Documents\GitHub\Assignment-_14.3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00565f21e465cd31d065a1bbd8b85b39f434e7b4">
+        <dex dex="C:\Users\USER\Documents\GitHub\Assignment-_14.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d30d2625d827e632e0244aa42d48d17021ed496f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\Documents\GitHub\Assignment-_14.3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87703cdf6dbdc092fbd40e5caef60397c5369035">
+        <dex dex="C:\Users\USER\Documents\GitHub\Assignment-_14.3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0076f6ed0cb34876720ce772d8681fa5deeef2e6\classes.dex" />
+    </item>
+
+</items>

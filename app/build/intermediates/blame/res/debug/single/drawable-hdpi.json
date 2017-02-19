@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Documents\\GitHub\\Assignment-_14.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\temp_img.png",
+        "source": "C:\\Users\\USER\\Documents\\GitHub\\Assignment-_14.3\\app\\src\\main\\res\\drawable-hdpi\\temp_img.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Documents\\GitHub\\Assignment-_14.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\USER\\Documents\\GitHub\\Assignment-_14.3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Downloads\\JsonParseTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\USER\\Downloads\\JsonParseTutorial\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Downloads\\JsonParseTutorial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\temp_img.png",
+        "source": "C:\\Users\\USER\\Downloads\\JsonParseTutorial\\app\\src\\main\\res\\drawable-hdpi\\temp_img.png"
+    }
+]
